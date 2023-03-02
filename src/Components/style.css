@@ -1,0 +1,96 @@
+#form {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+#form input {
+    margin: 5px;
+}
+
+#form input::placeholder {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+}
+
+.btn {
+    background-color: #214ea7;
+    font-size: 20px;
+    color: white;
+}
+
+.me-auto.navbar-nav a {
+    padding: 13px 76px;
+}
+
+/* .btn-forget{
+    padding-top: -200px;
+} */
+
+
+#profile  {
+    font-size: 23px;
+    color: blueviolet;
+    background: burlywood;
+    margin: 20px;
+}
+#profile-2  {
+    font-size: 23px;
+    color: blueviolet;
+    background: burlywood;
+   
+}
+
+form.form {
+    background: burlywood;
+    height: 300px;
+    text-align: center;
+    margin:  auto;
+    margin-top: 1rem;
+    width: 68%;
+}
+form.form label {
+    margin-top: 1rem;
+    display: block;
+    color: black;
+    font-size: 21px;
+}
+
+form.form input {
+    /* background:yellow; */
+    color: black;
+    text-align: center;
+    font-size: 17px;
+    border: aliceblue;
+}
+form.form select {
+    /* background:yellow; */
+    color: black;
+    text-align: center;
+    font-size: 17px;
+    border: aliceblue;
+}
+
+ul {
+    width: 100%;
+    padding: 17px;
+    margin: 4px;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: none;
+}
+
+button {
+    padding: 7px;
+    margin: 10px;
+    text-align: center;
+    background: burlywood;
+    color: blue;
+}
+
